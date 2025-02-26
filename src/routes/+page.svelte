@@ -6,4 +6,4 @@
   Hello world, svelte-ux!
 </h1>
 
-<p><Button primary>Click here</Button></p>
+<p><Button variant="fill-outline" color="primary">Click here</Button></p>
